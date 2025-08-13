@@ -32,4 +32,4 @@ A calculadora considera:
 - Consulta detalhada por código do cliente
 
 ---
-📌 ObservaçõesEste projeto foi desenvolvido com fins educativos.
+📌 Observações: Este projeto foi desenvolvido com fins educativos.
