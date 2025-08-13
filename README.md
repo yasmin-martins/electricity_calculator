@@ -1,5 +1,4 @@
-# electricity_calculator
-Java Code
+
 # ⚡ Calculadora de Energia Elétrica
 
 Este projeto em Java realiza o cálculo detalhado do consumo de energia elétrica de até 20 clientes ao longo de 12 meses. A aplicação considera bandeiras tarifárias, impostos e gera médias mensais de consumo e custo, além de permitir consultas por código de cliente.
